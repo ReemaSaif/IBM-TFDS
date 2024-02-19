@@ -1,4 +1,4 @@
 # IBM-TFDS
 
 
-Coursera --- IBM Course (Tools for Data Science)
+Coursera ----> IBM (Tools for Data Science Course) 
